@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer:brasil:<br>15y<br>Construindo sorte<br>
+Front-End Developer:brazil:<br>15y<br>Construindo sorte<br>
 
 
 # 💻 Tech Stack:
