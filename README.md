@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-End Developer:brazil:<br>16y
+Front-End Student:brazil:<br>16y
 
 
 # 💻 Tech Stack:
